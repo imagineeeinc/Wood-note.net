@@ -1,4 +1,4 @@
-!(src/favicon.ico)
+![](src/favicon.ico)
 
 # DEV-NOTE
 
