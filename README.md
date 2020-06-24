@@ -1,3 +1,5 @@
+![DEV Note logo](.src/appletouchicon.png)
+
 # DEV-NOTE
 
 # [Click This For The Application](https://imagineeeinc.github.io/DEV-NOTE/src/index.html)
