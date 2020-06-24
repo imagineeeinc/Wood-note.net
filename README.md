@@ -6,4 +6,4 @@ Now has Save as built in to save directely to your desktop
 
 more features comming soon!
 
-[Live demo](https://imagineeeinc.github.io/DEV-NOTE/src/index.html)
+# [Live demo](https://imagineeeinc.github.io/DEV-NOTE/src/index.html)
