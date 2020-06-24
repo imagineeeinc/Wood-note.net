@@ -11,3 +11,4 @@ Now has Save as built in to save directely to your desktop
 more features comming soon!
 
 ## [Live demo](https://imagineeeinc.github.io/DEV-NOTE/src/index.html)
+### [The Code](https://github.com/imagineeeinc/DEV-NOTE)
