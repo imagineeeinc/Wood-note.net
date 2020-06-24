@@ -1,4 +1,4 @@
-![DEV Note logo](.src/appletouchicon.png)
+!(src/favicon.ico)
 
 # DEV-NOTE
 
