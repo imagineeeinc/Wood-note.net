@@ -1,0 +1,120 @@
+@media only screen and (min-width: 770px) {
+    #header {
+    background-image: url("sheet.jpg");
+    background-repeat: repeat-x;
+    font-size: 75px;
+    margin-top: -6.75%;
+    height: 400px
+    }
+    a#appbut {
+    background-color: lightblue;
+    font-size: 75%; 
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: left; 
+    padding: 2px 2px 2px 2px;
+    text-shadow: 0px 1px 1px grey;
+    box-shadow: 1px 1px 2px grey;
+    color: grey;
+    float: right;
+    margin-right: 10px;
+    position: sticky;
+    top: 0;
+    }
+    a {
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: left; 
+    padding: 2px 2px 2px 2px;
+    text-shadow: 0px 1px 1px grey;
+    box-shadow: 1px 1px 2px grey;
+    color: white;
+    }
+    footer {
+    background-image: url("sheet.jpg");
+    background-repeat: repeat-x;
+    height: 250px;
+    text-align: center;
+}
+#butboxd {
+    float: right;
+    margin-right: 50px;
+    border-left: 2px solid white;
+    padding-left: 20px;
+}
+}
+
+@media only screen and (max-width: 769px) {
+    #header {
+    background-image: url("sheet.jpg");
+    background-repeat: repeat-x;
+    font-size: 34px;
+    margin-top: -8%;
+    height: 170px;
+    position: sticky;
+    top: 0;
+    }
+    a#appbut {
+    width: 50px;
+    background-color: lightblue;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: left; 
+    font-size: 24px;
+    padding: 2px 2px 2px 2px;
+    text-shadow: 0px 1px 1px grey;
+    box-shadow: 1px 1px 2px grey;
+    color: grey;
+    margin-left: 10px;
+    }
+    a#appbut > img {
+        width: 23px;
+    }
+    a {
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: left; 
+    padding: 2px 2px 2px 2px;
+    text-shadow: 0px 1px 1px grey;
+    color: white;
+    }
+    footer {
+    background-image: url("sheet.jpg");
+    background-repeat: repeat-x;
+    height: 60%;
+    text-align: center;
+}
+    #butboxd {
+
+    }
+}
+body {
+    font-family:  'Space Mono, Arial', monospace;
+    font: monospace;
+    background-color: #6c6a8a;
+    color: white;
+}
+a#appbut:hover {
+    background: white;
+    text-shadow: 0px 3px 3px grey;
+    color: black;
+    box-shadow:  3px 3px 5px black;
+}
+a#appbut:active {
+    background-color: white;
+    text-shadow: 0px 5px 5px grey;
+    color: white;
+    box-shadow: 0px 3px 3px grey inset;
+}
+a:hover {
+    background: white;
+    text-shadow: 0px 3px 3px grey;
+    color: black;
+    box-shadow:  3px 3px 5px black;
+}
+a:active {
+    background-color: white;
+    text-shadow: 0px 5px 5px grey;
+    color: white;
+    box-shadow: 0px 3px 3px grey inset;
+}
