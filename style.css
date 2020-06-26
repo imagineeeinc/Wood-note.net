@@ -3,8 +3,8 @@
     background-image: url("sheet.jpg");
     background-repeat: repeat-x;
     font-size: 75px;
-    margin-top: -6.75%;
-    height: 400px
+    margin-top: -3%;
+    height: 400px;
     }
     a#appbut {
     background-color: lightblue;
@@ -33,7 +33,7 @@
     footer {
     background-image: url("sheet.jpg");
     background-repeat: repeat-x;
-    height: 250px;
+    height: 400px;
     text-align: center;
 }
 #butboxd {
@@ -41,6 +41,21 @@
     margin-right: 50px;
     border-left: 2px solid white;
     padding-left: 20px;
+}
+#table {
+    font-size: 40px;
+}
+body {
+    font-size: 20px;
+}
+video {
+    width: 25%px;
+}
+th > h6 {
+    font-size: 18px;
+}
+#phonev {
+    width: 50%;
 }
 }
 
@@ -50,7 +65,7 @@
     background-repeat: repeat-x;
     font-size: 34px;
     margin-top: -8%;
-    height: 170px;
+    height: 90%;
     position: sticky;
     top: 0;
     }
@@ -81,12 +96,27 @@
     footer {
     background-image: url("sheet.jpg");
     background-repeat: repeat-x;
-    height: 60%;
+    height: 80%;
     text-align: center;
 }
     #butboxd {
 
     }
+    table {
+        font-size: 10px;
+}
+body {
+    font-size: 20px;
+}
+video {
+    width: 100%;
+}
+th > h6 {
+    font-size: 6px;
+}
+#phonev {
+    width: 70%;
+}
 }
 body {
     font-family:  'Space Mono, Arial', monospace;
